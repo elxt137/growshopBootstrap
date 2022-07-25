@@ -1,12 +1,12 @@
 
 
 .logo{
-    background-color:springgreen;
+    background-color: #353B40;
     font-size: 45px;
     
 }
 #producto{
-    background-color: green;
+    background-color:#3CA643;
 }
 
 .colorbarra{
@@ -18,7 +18,7 @@
     height: 20px;
     width: 15px;
     border-radius: 0%;
-    border: 2px solid springgreen;
+    border: 2px solid #3CA643;
 
 }
 
@@ -29,5 +29,9 @@ footer i{
 
 .marginIcon{
     font-size: 35px;
-    background-color: springgreen;
+    background-color: #3CA643;
+}
+
+.logoverde{
+    color: #3CA643;
 }

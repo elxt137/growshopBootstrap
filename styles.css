@@ -1,10 +1,33 @@
-header{
-    background-color: aqua;
-}
+
 
 .logo{
-    background-color: brown;
+    background-color:springgreen;
+    font-size: 45px;
+    
 }
 #producto{
     background-color: green;
+}
+
+.colorbarra{
+    font-size: 30px;
+    margin:10px;
+}
+
+.carousel-indicators li{
+    height: 20px;
+    width: 15px;
+    border-radius: 0%;
+    border: 2px solid springgreen;
+
+}
+
+footer i{
+    font-size: 35px;
+
+}
+
+.marginIcon{
+    font-size: 35px;
+    background-color: springgreen;
 }

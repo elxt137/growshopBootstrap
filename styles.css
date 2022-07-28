@@ -13,6 +13,13 @@
     background-color: #3CA643;
 }
 
+.forimage{
+    background-image: url("./img/1Plillocannabis.JPEG");
+    height: 1080px;
+    color:greenyellow;
+    
+}
+
 .colorbarra{
     font-size: 30px;
     margin:10px;

@@ -42,6 +42,12 @@ $font3:'Quicksand', sans-serif;
     
 }
 
+ul li a{
+    &:hover{
+        color:red 
+    }
+}
+
 
 
 .carousel-indicators{

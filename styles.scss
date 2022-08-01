@@ -39,14 +39,20 @@ $font3:'Quicksand', sans-serif;
 .colorbarra{
     font-size: 30px;
     margin:10px;
+    
 }
 
-.carousel-indicators li{
+
+
+.carousel-indicators{
+
+    li{
     height: 20px;
     width: 15px;
     border-radius: 0%;
     border: 2px solid #3CA643;
 
+}
 }
 
 footer i{

@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&family=Rajdhani:wght@600&family=Titillium+Web:wght@200&display=swap');
+
+$font1:'Titillium Web', sans-serif;
+$color1:#3CA643;
+$font2:'Rajdhani', sans-serif;
+$font3:'Quicksand', sans-serif;
+
+
+// font-family: 'Quicksand', sans-serif;
+// font-family: 'Rajdhani', sans-serif;
+// font-family: 'Titillium Web', sans-serif;
+
+
+
+
+
+.logo{
+    background-color: white;
+    font-size: 50px;
+    font-family: $font1;
+    
+}
+#producto{
+    background-color:#3CA643;
+}
+
+.fondoverde{
+    background-color: #3CA643;
+}
+
+.forimage{
+    background-image: url("./img/1Plillocannabis.JPEG");
+    height: 1080px;
+    color:greenyellow;
+    
+}
+
+.colorbarra{
+    font-size: 30px;
+    margin:10px;
+}
+
+.carousel-indicators li{
+    height: 20px;
+    width: 15px;
+    border-radius: 0%;
+    border: 2px solid #3CA643;
+
+}
+
+footer i{
+    font-size: 35px;
+
+}
+
+.marginIcon{
+    font-size: 35px;
+    background-color:$color1;
+}
+
+.logoverde{
+    color: #3CA643;
+}
+

@@ -1,48 +1,47 @@
-
-
-.logo{
-    background-color: #353B40;
-    font-size: 45px;
-    
-}
-#producto{
-    background-color:#3CA643;
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&family=Rajdhani:wght@600&family=Titillium+Web:wght@200&display=swap");
+.logo {
+  background-color: white;
+  font-size: 50px;
+  font-family: "Titillium Web", sans-serif;
 }
 
-.fondoverde{
-    background-color: #3CA643;
+#producto {
+  background-color: #3CA643;
 }
 
-.forimage{
-    background-image: url("./img/1Plillocannabis.JPEG");
-    height: 1080px;
-    color:greenyellow;
-    
+.fondoverde {
+  background-color: #3CA643;
 }
 
-.colorbarra{
-    font-size: 30px;
-    margin:10px;
+.forimage {
+  background-image: url("./img/1Plillocannabis.JPEG");
+  height: 1080px;
+  color: greenyellow;
 }
 
-.carousel-indicators li{
-    height: 20px;
-    width: 15px;
-    border-radius: 0%;
-    border: 2px solid #3CA643;
-
+.colorbarra {
+  font-size: 30px;
+  margin: 10px;
 }
 
-footer i{
-    font-size: 35px;
-
+.carousel-indicators li {
+  height: 20px;
+  width: 15px;
+  border-radius: 0%;
+  border: 2px solid #3CA643;
 }
 
-.marginIcon{
-    font-size: 35px;
-    background-color: #3CA643;
+footer i {
+  font-size: 35px;
 }
 
-.logoverde{
-    color: #3CA643;
+.marginIcon {
+  font-size: 35px;
+  background-color: #3CA643;
 }
+
+.logoverde {
+  color: #3CA643;
+}
+
+/*# sourceMappingURL=styles.css.map */

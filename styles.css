@@ -24,7 +24,7 @@
   margin: 10px;
 }
 
-ul li a:hover {
+ul li:hover {
   color: red;
 }
 

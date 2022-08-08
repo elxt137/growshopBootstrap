@@ -1,8 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&family=Rajdhani:wght@600&family=Titillium+Web:wght@200&display=swap");
-.logo {
+.logo, .logo--nuevo {
   background-color: white;
   font-size: 50px;
   font-family: "Titillium Web", sans-serif;
+}
+
+.logo--nuevo {
+  background-color: #3CA643;
+  color: aliceblue;
 }
 
 #producto {

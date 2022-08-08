@@ -21,6 +21,13 @@ $font3:'Quicksand', sans-serif;
     font-family: $font1;
     
 }
+
+.logo--nuevo{
+    @extend .logo;
+    background-color: #3CA643;
+    color:aliceblue;
+}
+
 #producto{
     background-color:#3CA643;
 }
@@ -67,11 +74,17 @@ footer i{
 }
 
 .marginIcon{
+    
     font-size: 35px;
-    background-color:$color1;
+    background-color: $color1;
+   
+    
 }
 
 .logoverde{
     color: #3CA643;
 }
+
+
+
 

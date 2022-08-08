@@ -21,11 +21,24 @@ $font3:'Quicksand', sans-serif;
     font-family: $font1;
     
 }
+/*se agrego extends como parte de la entrega de sass2+seo*/
 
 .logo--nuevo{
     @extend .logo;
     background-color: #3CA643;
     color:aliceblue;
+}
+
+/*se agrega mixing para los parrafos de las pages para mantener el mismo formato*/
+
+@mixin estilop  ($textoSize , $colorP) {
+    font-size: $textoSize;
+    color: $colorP;
+
+ }
+
+ .parrafo{
+    @include estilop(40px, #0d98ec )
 }
 
 #producto{

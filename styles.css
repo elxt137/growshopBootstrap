@@ -5,9 +5,16 @@
   font-family: "Titillium Web", sans-serif;
 }
 
+/*se agrego extends como parte de la entrega de sass2+seo*/
 .logo--nuevo {
   background-color: #3CA643;
   color: aliceblue;
+}
+
+/*se agrega mixing para los parrafos de las pages para mantener el mismo formato*/
+.parrafo {
+  font-size: 40px;
+  color: #0d98ec;
 }
 
 #producto {

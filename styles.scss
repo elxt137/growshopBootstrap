@@ -31,14 +31,16 @@ $font3:'Quicksand', sans-serif;
 
 /*se agrega mixing para los parrafos de las pages para mantener el mismo formato*/
 
-@mixin estilop  ($textoSize , $colorP) {
+@mixin estilop  ($textoSize , $colorP, $bcolor) {
     font-size: $textoSize;
     color: $colorP;
+    background-color: $bcolor;
 
  }
 
  .parrafo{
-    @include estilop(40px, #0d98ec )
+    @include estilop(40px, #0d98ec, black )
+   
 }
 
 #producto{

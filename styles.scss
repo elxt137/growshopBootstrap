@@ -6,6 +6,13 @@ $color1:#3CA643;
 $font2:'Rajdhani', sans-serif;
 $font3:'Quicksand', sans-serif;
 
+$colores: (
+    primero: orange,
+    segundo: white,
+    tercero: black,
+    
+);
+
 
 // font-family: 'Quicksand', sans-serif;
 // font-family: 'Rajdhani', sans-serif;
@@ -102,6 +109,12 @@ footer i{
 
 .icolor{
     color:black;
+}
+
+.iconRedes {
+    font-size: 50px;
+    color: map-get( $colores, tercero );
+    transition: all 0.7s;
 }
 
 

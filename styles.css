@@ -65,4 +65,10 @@ footer i {
   color: black;
 }
 
+.iconRedes {
+  font-size: 50px;
+  color: black;
+  transition: all 0.7s;
+}
+
 /*# sourceMappingURL=styles.css.map */

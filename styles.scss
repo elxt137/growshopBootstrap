@@ -111,11 +111,7 @@ footer i{
     color:black;
 }
 
-.iconRedes {
-    font-size: 50px;
-    color: map-get( $colores, tercero );
-    transition: all 0.7s;
-}
+@import "_footer"
 
 
 

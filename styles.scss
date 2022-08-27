@@ -111,6 +111,12 @@ footer i{
     color:black;
 }
 
+/*fondo degradado de los html*/
+
+.fondo2{
+    background-image: radial-gradient(circle at -4.17% 4.55%, #fffc8e 0, #fffd7f 7.14%, #fffe71 14.29%, #fffd64 21.43%, #fffc57 28.57%, #f3fa4c 35.71%, #d6f643 42.86%, #b5f23c 50%, #90ed3b 57.14%, #64e940 64.29%, #0ce44a 71.43%, #00e057 78.57%, #00dc66 85.71%, #00d878 92.86%, #00d58a 100%);
+}
+
 @import "_footer"
 
 

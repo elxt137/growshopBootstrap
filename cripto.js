@@ -97,7 +97,7 @@ function consultarAPI() {
 
 function mostrarCotizacionHTML(cotizacion) {
 
-    
+   
 
     const { PRICE , HIGHDAY, LOWDAY, CHANGEPCT24HOUR,LASTUPDATE} = cotizacion;
     const precio = document.createElement('p');

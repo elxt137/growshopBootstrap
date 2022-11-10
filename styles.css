@@ -75,3 +75,16 @@ footer i {
   color: black;
   transition: all 0.7s;
 }
+
+
+.formatoCarrito {
+    padding-left: 15px;
+
+}
+
+
+.dondeEstamos {
+  font-size: 30px;
+  text-align: center;
+  background-color: #b5f23c;
+}
